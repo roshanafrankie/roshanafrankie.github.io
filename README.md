@@ -64,15 +64,22 @@ in a clinical diagnostic setting or the volatility of the financial markets.
 
 ---
 
-## 🛠 Technical Toolkit
+## 🛠 Technical Stack
+```python
+# Data Science & Machine Learning
+libraries = [
+    "TensorFlow", "Scikit-Learn", "Pandas", 
+    "NumPy", "Tidyverse", "Ggplot2"
+]
 
-| Category | Skills & Frameworks |
-| :--- | :--- |
-| **Data Science & ML** | Python (TensorFlow, Scikit-Learn, Pandas, NumPy), R (Tidyverse, Ggplot2), Deep Learning (CNNs), Statistical Modeling, Hypothesis Testing. |
-| **Software Development** | GUI Development (CustomTkinter, Tkinter), Database Management (MySQL), Streamlit (Web App Deployment), Version Control (Git/GitHub). |
-| **Financial Analysis** | Market Intelligence, Financial Data Visualization |
-| **Biological Sciences** | Quantitative Zoology, Analytical Chemistry, Laboratory Instrumentation, Biological Data Interpretation. |
-| **Operational Tools** |  Microsoft Excel (Advanced Data Handling), Project Management (AIESEC Framework). |
+# Software & Databases
+tools = ["CustomTkinter", "MySQL", "Streamlit", "Git"]
+
+# Core Competencies
+expertise = [
+    "Deep Learning (CNNs)", "Statistical Modeling", 
+    "Hypothesis Testing", "Financial Analysis"
+]
 
 ---
 
