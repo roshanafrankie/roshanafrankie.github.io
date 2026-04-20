@@ -1,7 +1,8 @@
+<a name="top"></a>
 # Roshana Frankie Rajendran
 ### Biological Science Graduate | MSc Applied Statistics Student
 
-[📄 Download My CV](./assets/R.F.Rajendran_Resume.pdf) | [📧 Email Me](mailto:roshanarajendran2001@gmail.com)
+[📄 Download My CV](./assets/R.F.Rajendran_Resume.pdf) | [📧 Email Me](mailto:roshanarajendran2001@gmail.com?subject=Portfolio%20Inquiry)
 
 ---
 
@@ -86,4 +87,4 @@ expertise = [
 ## 📬 Let's Connect
 I prefer to share my work through direct projects rather than social feeds. Feel free to explore my repositories or reach out via email for collaboration.
 
-[Back to Top](#roshana-frankie)
+[Back to Top](#top)
