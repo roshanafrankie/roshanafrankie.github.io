@@ -65,22 +65,14 @@ in a clinical diagnostic setting or the volatility of the financial markets.
 
 ---
 
-## 🛠 Technical Stack
-```python
-# Data Science & Machine Learning
-libraries = [
-    "TensorFlow", "Scikit-Learn", "Pandas", 
-    "NumPy", "Tidyverse", "Ggplot2"
-]
+## 🛠 Technical Toolkit
 
-# Software & Databases
-tools = ["CustomTkinter", "MySQL", "Streamlit", "Git"]
-
-# Core Competencies
-expertise = [
-    "Deep Learning (CNNs)", "Statistical Modeling", 
-    "Hypothesis Testing", "Financial Analysis"
-]
+| Data Science & ML | Software & Databases | Core Competencies |
+| :--- | :--- | :--- |
+| • TensorFlow / Scikit-Learn | • Python (CustomTkinter) | • Deep Learning (CNNs) |
+| • Pandas / NumPy | • MySQL | • Statistical Modeling |
+| • R (Tidyverse / Ggplot2) | • Streamlit | • Hypothesis Testing |
+| • Statistical Computing | • Git / GitHub | • Financial Analysis |
 
 ---
 
