@@ -46,7 +46,7 @@ in a clinical diagnostic setting or the volatility of the financial markets.
 ---
 
 ## 📜 Certifications
-* **Advanced Python** - [View Certificate](./assets/Advanced_Python_Certification.pdf)
+* **Advanced Python** - [Verify](https://www.slipdacademy.com/verify/?token=eyJwYXlsb2FkIjp7Im5hbWUiOiJSb3NoYW5hIFJhamVuZHJhbiIsImNvdXJzZSI6IkFkdmFuY2VkIFB5dGhvbiBDZXJ0aWZpY2F0aW9uIENvdXJzZSIsImZpbmFsUHJvamVjdHMiOiJJbnRlcnZpZXcgVHJhY2tpbmcgU3lzdGVtIn0sInNpZ25hdHVyZSI6ImlMZHA2UVJmbk9KM2JFdzhIY3lhY0tIRkV3UG5ZeFBKQkNkbU0wMEY3bzhMQ0JaMWhwWmFlZHNFZUVyUENId3pSd1NTSFNxVm5GdE43dmhnaEtFN29VMzY3dm1GWWlBWUhvVkZDcXlUN0dHd3BZcDJmZmUyaWNVdjE5dTNEczVIVlp1bmVMN2hpcmszRGJpODhyTzJFc0JUenVYczBNL2dpNkh5c3hNNDNIYUhwUEs3bzVGTTF3cktVVlNwcm8rS2NFVHF6ZHltcnM5U1g5MFRqVmtER0NUY2RVNFA3cXRoVUlzWTlaWGxkdTFxRGpmSGxIb3hiaWllSXhlQVlkd3lCRjFibXkvOW1wZzBVK2drWUFiRE41V2xxdk5jWGQrN1FhUG42SHJXUmtHZngzTlhPdytFaTBJOU1MWFNLK0NadEIwVVAzaVN3cGpmSDZBQWZkdE1mUT09In0=)
 * **Data Analytics Internship** - [View Certificate](./assets/Data%20Analytics%20Internship%20Certificate.pdf)
 * **AI Internship** - [View Certificate](./assets/AI%20Internship%20Certificate.pdf)
 * **Power BI Internship** - [View Certificate](./assets/PowerBI_Intership_Certificate.pdf)
