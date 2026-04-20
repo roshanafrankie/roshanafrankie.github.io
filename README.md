@@ -1,7 +1,4 @@
 <a name="top"></a>
-# Roshana Frankie Rajendran
-### Biological Science Graduate | MSc Applied Statistics Student
-
 [📄 Download My CV](./assets/R.F.Rajendran_Resume.pdf) | [📧 roshanarajendran2001@gmail.com](mailto:roshanarajendran2001@gmail.com)
 
 ---
