@@ -51,6 +51,7 @@ in a clinical diagnostic setting or the volatility of the financial markets.
 * **AI Internship** - [View Certificate](./assets/AI%20Internship%20Certificate.pdf)
 * **Power BI Internship** - [View Certificate](./assets/PowerBI_Intership_Certificate.pdf)
 * **EF SET ENGLISH CERTIFICATE** - [View Credential](https://cert.efset.org/Xsjri9)
+* **CMLE - Certified Machine Learning Engineer L3 - Gold** - [View Credential](https://credsverse.com/credentials/f2245ca9-c5eb-4a68-abe4-ba12a18fa301)
 * **CMLE - Certified Machine Learning Engineer L2** - [View Credential](https://credsverse.com/credentials/e9fdd817-65b6-4b56-bf63-2e555fbce2c3)
 * **CMLE - Certified Machine Learning Engineer L1** - [View Credential](https://credsverse.com/credentials/863cfe25-28b5-4437-8ffd-d9b25e41d930)
 
