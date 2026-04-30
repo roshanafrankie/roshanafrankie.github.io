@@ -24,9 +24,9 @@ in a clinical diagnostic setting or the volatility of the financial markets.
 ## 🤖 [Finance_AI_Agent](https://github.com/roshanafrankie/Finance_AI_Agent)
 
 **Domain:** Generative AI & Automated Financial Research
-* **The Concept:** An intelligent agentic workflow that leverages Large Language Models (LLMs) to perform autonomous financial research, sentiment analysis, and real-time market data retrieval.
-* **Key Skills:** LLM Orchestration (LangChain/CrewAI), API Integration (YFinance/Alpha Vantage), Prompt Engineering.
-* **Why it matters:** Moves beyond static analysis into autonomous reasoning, showing how AI can summarize complex financial reports and provide real-time investment reasoning.
+* **The Concept:** An intelligent agentic workflow designed to simplify financial management through NLP. It converts informal human conversation into structured SQL data, allowing users to manage complex financial tracking.
+* **Key Skills:** LLM Orchestration, API Integration, Prompt Engineering.
+* **Why it matters:** This agent proves that advanced AI can be used to make professional grade financial tracking accessible, efficient, and locally secure essential traits for any modern data driven application.
 
 ### 🏥 [Medical AI Hub](https://github.com/roshanafrankie/Medical-AI-Hub)
 **Domain:** Healthcare Technology & Deep Learning
