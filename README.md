@@ -79,7 +79,6 @@ in a clinical diagnostic setting or the volatility of the financial markets.
 | • R (Tidyverse / Ggplot2) | • Streamlit | • Hypothesis Testing |
 | • Statistical Computing | • Git / GitHub | • Financial Analysis |
 | • Generative AI & LLMs | • sqlite3 / Gradio | • Agentic Workflows |
----
 
 ## 📬 Let's Connect
 I prefer to share my work through direct projects rather than social feeds. Feel free to explore my repositories or reach out via email for collaboration.
